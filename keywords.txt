@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map LEDDriver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LEDDriver	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init	KEYWORD2
+process	KEYWORD2
+set	KEYWORD2
+getChannelValue	KEYWORD2
+logger	KEYWORD2
+
